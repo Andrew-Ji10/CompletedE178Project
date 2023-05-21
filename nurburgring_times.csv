@@ -1,0 +1,104 @@
+Position,Year,Make,Model,Time (min:sec),time (s),horsepower (hp),torque (lb-ft),kerb weight (lb),wheel base (in),width (in),height (in),RWD,AWD,FWD,0-60 (s),top speed (mph),manual,automatic,Comments,Sources
+1,2009,Radical,SR8 LM,06:48.0,408,453,280,1664,94,72.83,43,1,0,0,2.8,173,1,0,,https://www.radicalsportscarsnz.co.nz/sr8
+2,2005,Radical,SR8,06:56.1,416.1,358.03,210,1389,94,70.9,43,1,0,0,2.8,168,1,0,"top speed: https://fastestlaps.com/models/radical-sr8 , 0-60 https://www.grouparacingteam.com/radical-cars#:~:text=The%20SR8%20is%20a%20truly,0%2D60%20in%202.8%20seconds.",https://www.ultimatecarpage.com/spec/3259/Radical-SR8.html
+3,2013,Porsche,918 Spyder,06:57.0,417,874.9,944.1,3606,107.5,76.4,45.9,0,1,0,2.7,214.25,0,1,,https://www.supercars.net/blog/2013-porsche-918-spyder/ 
+4,2015,Lamborghini,Aventador LP 750-4 Superveloce,06:59.7,419.7,750,508,3362,106.3,79.9,44.7,0,1,0,2.8,217.35,0,1,"weight, transmission, torque: https://www.ultimatespecs.com/car-specs/Lamborghini/71767/Lamborghini-Aventador-LP-750-4-SV.html ",https://www.supercars.net/blog/2015-lamborghini-aventador-lp-750-4-superveloce/
+5,2015,Nissan,GT-R Nismo,07:08.7,428.7,545,481,3851,109.4,74.6,53.9,0,1,0,3.2,196,0,1,all from edmunds except top speed from kelley blue book,https://www.edmunds.com/nissan/gt-r/2015/nismo/st-200689784/features-specs/
+6,2009,Gumpert,Apollo Speed,07:11.6,431.6,740,663,2646,106.3,78.66,43.86,1,0,0,2.897,224,1,0,,https://www.ultimatespecs.com/car-specs/Gumpert/38756/Gumpert-Apollo-S.html
+7,2010,Dodge,Viper SRT-10 ACR,07:12.1,432.1,631.2448,605,3190,98.8,75.2,47.6,1,0,0,3.3,185,1,0,,https://www.caranddriver.com/reviews/a15126395/2010-dodge-viper-srt10-acr-x-first-drive-review/
+8,2012,Lexus,LFA Nurburgring Package,07:14.6,434.6,562,354,3263,63.2,74.6,48,1,0,0,3.7,202,0,1,,https://www.supercars.net/blog/2012-lexus-lfa-nurburgring-package/
+9,2005,Donkervoort,D8 RS,07:14.9,434.9,340,450,1433,92.13,72.83,44.96,1,0,0,3.9,154,1,0,"hp, drive type, transmission: https://fastestlaps.com/models/donkervoort-d8-rs  
+top speed: https://www.automobile-catalog.com/performance/2005/695300/donkervoort_d8-270_rs.html#gsc.tab=0  
+Dimensions: https://www.donkervoort.com/en/models/heritage/d8-gto-rs/",https://www.supercars.net/blog/2005-donkervoort-d8-270-rs/
+10,2010,Porsche,911 GT2 RS,07:18.0,438,603,516,3021,92.5,72.9,58.3,1,0,0,3.38,204.93,1,0,,https://www.supercars.net/blog/2010-porsche-911-gt2-rs/
+11,2003,Radical,SR3 Turbo,07:19.0,439,260,160,1102,93.3,70.8,41.7,1,0,0,3.2,147,1,0,weight: https://www.supercars.net/blog/2003-radical-sr3-turbo/ ,https://www.car.info/en-se/radical/sr3/sr3-19506182/specs
+12,2013,Nissan,GT-R,07:19.1,439.1,545,463,3829,109.4,74.6,53.9,0,1,0,2.8,196,0,1,"width: https://www.carexpert.com.au/nissan/gt-r/2013-base-model-8ca2225b
+top speed & 0-60: https://www.autoblog.com/buy/2013-Nissan-GT_R/review/ ",https://www.motortrend.com/cars/nissan/gt-r/2013/
+13,2012,Chevrolet,Corvette ZR1,07:19.6,439.6,638,604,3333,105.7,75.9,48.7,1,0,0,3.4,205,1,0,top speed: https://www.autoblog.com/buy/2012-Chevrolet-Corvette-ZR1__2dr_Coupe/ ,https://www.edmunds.com/chevrolet/corvette/2012/zr1/st-101388744/features-specs/
+14,2015,Ferrari,488 GTB,07:21.6,441.6,659.783,560.55,3251.818,104.3307,76.85039,47.75591,1,0,0,2.897,205.052,0,1,drive type & transmission: https://www.autoevolution.com/cars/ferrari-488-gtb-2015.html#aeng_ferrari-488-gtb-2015-39-v8-7at-670-hp ,https://www.ferrari.com/en-EN/auto/ferrari-488-gtb
+15,2009,Dodge,Viper ACR,07:22.1,442.1,600,560,3408,98.8,75.2,47.6,1,0,0,3.6,173,1,0,,https://www.caranddriver.com/dodge/viper/specs/2009/dodge_viper_dodge-viper-srt10-coupe_2009
+16,2011,Chevrolet,Corvette Z06,07:22.7,442.7,430,424,3208,105.7,72.6,49.1,1,0,0,4.2,198,1,0,top speed: https://www.automobile-catalog.com/performance/2011/1201475/chevrolet_corvette_z06.html#gsc.tab=0 ,https://www.edmunds.com/chevrolet/corvette/2011/coupe/st-101331280/features-specs/
+17,2007,Gumpert,Apollo Sport,07:24.0,444,681,627,2646,106.3,78.5,43.5,1,0,0,2.9,224,1,0,,https://www.supercars.net/blog/2007-gumpert-apollo-sport/
+18,2011,Nissan,GT-R,07:24.2,444.2,485,451,3933,109.4,74.9,54,0,1,0,3,196,0,1,,https://fastestlaps.com/tracks/nordschleife
+19,2004,Maserati,MC12,07:24.3,444.3,624,480.89,2943,110,83,47,1,0,0,3.7,205.05,0,1,,https://www.auto-data.net/en/maserati-mc12-6.0-v12-624hp-10911
+20,2005,Pagani,Zonda F Clubsport,07:24.4,444.4,632.2,575,2712,107.5,80.9,44.92,1,0,0,3.3,214,1,0,,https://fastestlaps.com/models/pagani-zonda-f-clubsport
+21,2011,Lamborghini,Aventador LP700-4,07:25.0,445,680.6,509,3962,106,79.92,44.72,0,1,0,2.7,217,0,1,,https://fastestlaps.com/models/lamborghini-aventador-lp700-4
+22,2002,Ferrari,Enzo,07:25.2,445.2,642,485,3261,104,80.12,45.16,1,0,0,3.1,221,0,1,,https://www.ultimatespecs.com/car-specs/Ferrari/3650/Ferrari-Enzo-F60-60-V12.html
+23,2012,KTM,X-Bow R,07:25.7,445.7,355.1,332,1786,95.67,75.4,47.3,1,0,0,3.6,155,1,0,,https://fastestlaps.com/models/ktm-x-bow-rr
+24,2014,Mercedes,SLS AMG Black Series,07:26.4,446.4,613.5,468,3724,105.5,77.8,49.5,1,0,0,3.2,196,0,1,,https://www.caranddriver.com/reviews/a15116405/2014-mercedes-benz-sls-amg-black-series-first-drive-review/
+25,2008,Nissan,GT-R,07:26.7,446.7,466.5,433,3924,109,75,54,0,1,0,3.2,195,0,1,,https://fastestlaps.com/models/nissan-gt-r
+26,2011,Porsche,911 GT3 RS 4.0,07:27.0,447,486,339,3157,93,72.91,50.4,1,0,0,3.6,196,1,0,,https://fastestlaps.com/models/porsche-911-gt3-rs-4-0
+27,2016,BMW,M4 GTS,07:27.9,447.9,486,443,3530,110.7,73.6,54.4,1,0,0,3.5,190,1,0,,https://www.caranddriver.com/reviews/a15102466/2016-bmw-m4-gts-drive-review/
+28,2009,Ferrari,458 Italia,07:38.0,458,554.3,398,3450,104,76,48,1,0,0,3,205,0,1,,https://fastestlaps.com/models/ferrari-458-italia
+29,2010,McLaren,MP4-12C,07:28.0,448,582.9,443,3269,105,75,47,1,0,0,2.9,207,0,1,,https://fastestlaps.com/models/mclaren-mp4-12c
+30,2003,Porsche,Carrera GT,07:28.7,448.7,595.7,435,3256,107,76,46,1,0,0,3.5,205,1,0,,https://fastestlaps.com/models/porsche-carrera-gt
+31,2017,Chevy,Camaro ZL1,07:29.6,449.6,641.1,881,3931,111,75,53,1,0,0,3.4,206,1,0,,https://fastestlaps.com/models/chevrolet-camaro-zl1-mk-vi
+32,2012,Mercedes,SLS AMG GT,07:30.0,450,575,479,3759,106,76,50,1,0,0,3.8,196,0,1,,https://fastestlaps.com/models/mercedes-benz-sls-amg-gt
+33,2007,Porsche,911 GT2,07:31.0,451,529.9,501.54,3120,92.1,72.9,50.59,1,0,0,3.7,204,1,0,,https://www.auto-data.net/en/porsche-911-997-gt2-3.6-530hp-6584
+34,2016,Alfa Romeo,Giulia Quadrifoglio,07:32.0,452,510,442.54,3362,111,73.7,56.1,1,0,0,3.9,191,1,0,,https://www.auto-data.net/en/alfa-romeo-giulia-952-quadrifoglio-2.9-v6-510hp-23700
+35,2010,Porsche,911 Turbo S,07:32.0,452,530,700,1585,92.52,72.91,51.18,0,1,0,3.1,195.73,0,1,,https://www.auto-data.net/en/porsche-911-997-facelift-2008-turbo-s-3.8-530hp-pdk-36763
+36,2015,Ford,Shelby GT350R,07:32.2,452.2,533,429,3655,107.1,75.9,53.6,1,0,0,3.9,174,1,0,,https://www.autoevolution.com/cars/ford-gt350r-2016.html#aeng_ford-mustang-shelby-gt350r-2016-52-v8-6mt-526-hp
+37,2005,Pagani,Zonda F,07:33.0,453,602,760,1230,107.48,80.91,44.92,1,0,0,3.4,214,1,0,,https://www.auto-data.net/en/porsche-911-997-facelift-2008-turbo-s-3.8-530hp-pdk-36763
+38,2010,Porsche,911 GT3 RS,07:33.0,453,450,317,3020,92.72,72.91,50.39,1,0,0,3.8,193,1,0,,https://www.excellence-mag.com/resources/specs/182
+39,2006,Koenigsegg,CCX,07:33.6,453.6,795,693,1455,104.7,78.6,44.1,1,0,0,3,245,1,0,,https://www.automobile-catalog.com/car/2006/1369955/koenigsegg_ccx.html#gsc.tab=0
+40,2004,Koenigsegg,CCR,07:34.0,454,806,679,2601,104.7,78.3,42.1,1,0,0,3,245,1,0,,https://www.auto-data.net/en/koenigsegg-ccr-generation-649
+41,2010,Audi,R8 GT,07:34.0,454,560,398,3583,104.3,76,48.8,0,1,0,3.6,199,0,1,,https://www.autoevolution.com/cars/audi-r8-gt-2010.html#aeng_audi-r8-gt-2010-52-v10-fsi-560-hp
+42,2009,Nissan,GT-R Spec-V,07:34.5,454.5,480,430,3836,109.5,74.6,53.9,0,1,0,3.4,193,0,1,,https://www.carfolio.com/nissan-gt-r-specv-191928
+43,2005,RUF,RT12,07:35.0,455,730,693,3296,93,73,50,1,0,0,3.8,224,1,0,,https://fastestlaps.com/models/ruf-rt12
+44,2014,Chevrolet,Camaro Z/28,07:37.5,457.5,505,481,3820,112.3,76.9,52.4,1,0,0,4.4,185,1,0,,https://www.autoblog.com/buy/2014-Chevrolet-Camaro-Z_28__2dr_Coupe/specs/
+45,2011,Porsche,911 Carrera S,07:37.9,457.9,385,310,3208,92.52,71.18,51.18,1,0,0,4.5,187,1,0,,https://www.excellence-mag.com/resources/specs/122
+46,2017,Porsche,e Panamera Turbo,07:38.0,458,542,567,4565,116.14,76.26,56.18,0,1,0,3.8,190,0,1,,https://www.ultimatespecs.com/car-specs/Porsche/106963/Porsche-Panamera-2017-Turbo.html
+47,2006,Porsche,911 Turbo,07:38.0,458,480,457.29,1585,92.52,72.91,51.18,0,1,0,3.7,192.63,1,0,,https://www.auto-data.net/en/porsche-911-997-turbo-3.6-480hp-6590
+48,2010,Lexus,LF-A,07:38.0,458,560,354.03,1590,102.56,74.61,49.8,1,0,0,3.5,201.95,0,1,,https://www.auto-data.net/en/lexus-lfa-4.8-v10-560hp-automatic-24498
+49,2010,Lamborghini,Gallardo LP 570-4 Superleggera,07:38.0,458,570,398.28,3152.61,100.79,74.8,45.87,0,1,0,3.2,201.95,1,0,,https://www.auto-data.net/en/lamborghini-gallardo-lp-570-4-superleggera-5.2-570hp-awd-17488
+50,2015,Alfa Romeo,Giulia Quadrifoglio,07:39.0,459,512,443,3359,111,73.7,56.1,1,0,0,3.8,191,1,0,,https://www.autosnout.com/Figures-Specs/Alfa-Romeo-Giulia-Quadrifoglio-2-9-V6-Bi-Turbo-2015/1710
+51,2007,Ferrari,430 Scuderia,07:39.0,459,510,347,2976,102.4,75.7,47.8,1,0,0,3.6,199,0,1,,https://www.autoevolution.com/cars/ferrari-430-scuderia-2007.html#aeng_ferrari-f430-f-131-evoluzione-2007-43-v8
+52,2006,Lamborghini,Murcielago LP640,07:40.0,460,631,486,3671,104.92,81.1,44.88,0,1,0,3.4,205,1,0,,https://www.ultimatespecs.com/car-specs/Lamborghini/1937/Lamborghini-Murcielago-LP640.html
+53,2003,McLaren,Mercedes SLR,07:40.0,460,626,575,3898,106.3,75.1,49.6,1,0,0,3.8,208,0,1,,https://www.autoevolution.com/cars/mercedes-benz-slr-mclaren-c199-2003.html#aeng_mercedes-benz-slr-mclaren-c199-2003-54-v8-kompressor
+54,2009,Porsche,911 GT3,07:40.0,460,435,317,3020,92.7,71.2,50.4,1,0,0,4.1,194,1,0,,https://www.autoevolution.com/cars/porsche-911-gt3-997-2009.html#aeng_porsche-911-gt3-997-2009-38
+55,2011,Chevrolet,Camaro ZL-1,07:41.3,461.3,588.044,556,4188,112.3,75.5,54.2,1,0,0,4,184,1,0,,"https://www.autosnout.com/Figures-Specs/Chevrolet-Camaro-ZL1-6-2L-V8-2011/741, https://www.carfolio.com/chevrolet-camaro-zl1-233068"
+56,2006,Porsche,911 GT3,07:42.0,462,415,299,3075,92.7,71.2,50.4,1,0,0,4.3,193,1,0,,https://www.autoevolution.com/cars/porsche-911-gt3-997-2006.html#aeng_porsche-911-gt3-997-2006-36
+57,2002,Radical,SR3,07:42.0,462,207.843,125,1091,93.7,66.9,41.7,1,0,0,2.8,160,0,1,,"https://www.ultimatecarpage.com/spec/1669/Radical-SR3-1300.html, https://accelerationtimes.com/models/radical-sr3, https://fastestlaps.com/models/radical-sr3, http://www.diseno-art.com/encyclopedia/vehicles/road/cars/radical_sr3.html, https://www.conceptcarz.com/vehicle/z14947/radical-sr3-supersport.aspx"
+58,2009,Lamborghini,Murcielago LP 670-4 SuperVeloce,07:42.0,462,670,487,3671,104.9,81,44.7,0,1,0,3.2,212,1,0,,https://www.autoevolution.com/cars/lamborghini-murcielago-lp-670-4-superveloce-2009.html#aeng_lamborghini-murcielago-lp-670-4-superveloce-2009-65-v12
+59,2005,Chevrolet,Corvette Z06,07:42.9,462.9,505,469.83,3174.66,105.71,75.91,48.7,1,0,0,3.7,190.14,1,0,,https://www.auto-data.net/en/chevrolet-corvette-coupe-c6-z06-7.0-i-v8-505hp-14521
+60,2003,Porsche,911 GT3 RS,07:43.0,463,376,284,2998,92.7,69.7,50.2,1,0,0,4.4,190,1,0,,https://www.encycarpedia.com/us/porsche/03-911-gt3-rs-996-coupe
+61,2002,Pagani,Zonda C12 S,07:44.0,464,550,420,2750,107.9,80.5,45.3,1,0,0,3.5,208,1,0,,https://www.supercars.net/blog/2002-pagani-zonda-c12-s/
+62,2009,Audi,R8 V10 5.2 FSI,07:44.0,464,525,391,3726,104.3,76,49.3,0,1,0,3.9,196,1,0,,https://www.motortrend.com/reviews/2009-audi-r8-5-2-fsi-quattro-test/
+63,2007,Mercedes,CLK 63 Black Series,07:45.0,465,507,444,3847,106.9,72.2,53.7,1,0,0,4.3,186,0,1,,https://www.topspeed.com/cars/mercedes/2007-mercedes-clk-63-amg-black-series/
+64,2010,Gardner,Douglas GD T70 Spyder,07:45.0,465,700,602,2000,95,67,43,1,0,0,3,200,1,0,,https://www.gdcars.com/gd-t70-spyder
+65,2011,Mercedes,C 63 AMG Coupe Black Series,07:45.0,465,517,457,4442,108.9,70.7,54.8,1,0,0,4.2,186,0,1,,https://www.autoevolution.com/cars/mercedes-benz-c-63-amg-coupe-black-series-2011.html#aeng_mercedes-benz-c-63-amg-coupe-black-series-2011-63-v8-7mt-516-hp
+66,2000,Porsche,911 GT2,07:46.0,466,456,457,3174.6,92.91,72.05,50.39,1,0,0,3.7,196,1,0,,https://www.ultimatespecs.com/car-specs/Porsche/3580/Porsche-911-Coupe-(996-series)-GT2.html
+67,2007,Lamborghini,Gallardo Superleggera,07:46.0,466,523,376,3150,100.8,74.8,45.9,0,1,0,3.8,196,1,0,,https://www.ultimatespecs.com/car-specs/Lamborghini/3663/Lamborghini-Gallardo-Superleggera.html
+68,1992,Jaguar,XJ220,07:46.4,466.4,543,473,3240,103.9,79.1,45.3,1,0,0,3.6,217,1,0,,https://www.motortrend.com/vehicle-genres/jaguar-xj220-history-generations-specifications/
+69,2007,Lamborghini,Murcielago LP-640 E-gear,07:47.0,467,632,487,3671,104.9,81,44.7,0,1,0,3.4,205,0,1,,https://www.autoblog.com/buy/2007-Lamborghini-Murcielago-LP640__2dr_Coupe/specs/
+70,2006,Ferrari,599 GTB Fiorano,07:47.0,467,611,448,3750,108.3,77.2,52.6,1,0,0,3.7,205,0,1,,https://www.caranddriver.com/reviews/a18201118/2006-ferrari-599gtb-fiorano-first-drive-review/
+71,2008,Wiesmann,GT MF5,07:47.0,467,507,383,3703,98.7,76.4,46.4,1,0,0,3.9,193,1,0,,https://www.autoevolution.com/cars/wiesmann-gt-mf5-2008.html#aeng_wiesmann-gt-mf5-2008-50-v10
+72,2009,Porsche,911 Turbo,07:47.0,467,480,460,3495,94.52,72.91,51.18,0,1,0,3.9,193,1,0,,https://www.excellence-mag.com/resources/specs/163
+73,2006,Porsche,911 GT3 RS,07:48.0,468,415,299,3704,92.9,72.9,50.4,1,0,0,0.42,193,1,0,,https://www.autoevolution.com/cars/porsche-911-gt3-rs-997-2006.html#aeng_porsche-911-gt3-rs-997-2006-36
+74,2010,BMW,M3 GTS,07:48.0,468,450,324,4144.7,108.7,71,54.6,1,0,0,4.4,189.5,0,1,,https://www.autoevolution.com/cars/bmw-m3-gts-e92-2010.html#aeng_bmw-m3-gts-e92-2010-44-v8
+75,2010,Alpina,B3 GT3,07:49.0,469,405,540,3384,109,70,55,1,0,0,4.1,186,0,1,,https://fastestlaps.com/models/alpina-b3-gt3
+76,2016,Golf,GTI Clubsport S,07:49.2,469.2,290,258,3031,103.4,70.8,58.3,0,0,1,6.3,165,1,0,,https://www.motortrend.com/features/1702-2016-vw-golf-gti-clubsport-the-best-golf-ever/
+77,2002,Lamborghini,Murcielago,07:50.0,470,579,479,3650,104.9,80.5,44.7,0,1,0,3.9,205,1,0,,https://www.caranddriver.com/reviews/a15137053/lamborghini-murcielago-first-drive-review/
+78,2003,BMW,M3 CSL,07:50.0,470,360,273,3968.3,107.4,70.1,53.7,1,0,0,4.9,155.3,0,1,,https://www.autoevolution.com/cars/bmw-m3-csl-e46-2003.html#aeng_bmw-m3-csl-2003-32
+79,2008,Porsche,911 Carrera S,07:50.0,470,355,295,3131,92.52,71.18,51.18,1,0,0,4.6,182,1,0,,https://www.excellence-mag.com/resources/specs/116
+80,2015,Honda,Civic Type R,07:50.6,470.6,310,295,3748,102.1,73.9,57.7,1,0,0,5.7,168,1,0,,https://www.autoevolution.com/cars/honda-civic-type-r-2015.html#aeng_honda-civic-type-r-2015-20-vtec-6mt-310-hp
+81,2009,Mercedes,SL65 AMG Black Series,07:51.0,471,661,738,4740,100.8,72.3,50.6,1,0,0,3.6,200,0,1,,https://www.autoblog.com/buy/2009-Mercedes_Benz-SL_Class-Base__SL_65_AMG_Black_Series_2dr_Coupe/specs/
+82,2011,Jaguar,XKR-S,07:51.0,471,542,461,3864,108.3,74.5,51.7,1,0,0,4.2,186,0,1,,https://www.carmagazine.co.uk/car-reviews/jaguar/jaguar-xkr-s-2011-review/
+83,2015,BMW,M4,07:52.0,472,425,406,3530,110.7,73.6,54.4,1,0,0,4.1,155,1,0,,https://www.caranddriver.com/reviews/a15108515/2015-bmw-m4-manual-tested-review/
+84,2003,Lamborghini,Gallardo,07:52.0,472,500,376,3152,100.79,74.8,45.87,0,1,0,4,192,1,0,,https://www.auto-data.net/en/lamborghini-gallardo-coupe-5.0-v10-500hp-awd-e-gear-34324
+85,2004,Ford,GT,07:52.0,472,549,500,3483,106.7,76.9,44.3,1,0,0,3.9,205,1,0,,https://www.autoevolution.com/cars/ford-gt-2004.html#aeng_ford-gt-2004-54
+86,2011,Porsche,Panamera Turbos S,07:52.0,472,500,516,4343,114.9,76,55.8,0,1,0,4.2,188,0,1,,https://www.motortrend.com/reviews/2011-porsche-panamera-turbo-test/
+87,2008,Lamborghini,Gallardo LP560-4,07:52.0,472,560,398,3263,100.8,74.8,45.9,0,1,0,3.7,202,0,1,,https://www.motortrend.com/features/2008-lamborghini-gallardo-lp560-4-first-look/
+88,2004,Mercedes,CLK DTM,07:54.0,474,582,590,3750,106.9,71.3,52.6,1,0,0,3.8,199,0,1,,https://www.autoevolution.com/cars/mercedes-benz-clk-dtm-amg-c209-2004.html#aeng_mercedes-benz-clk-dtm-amg-2004-54-v8-kompressor
+89,2003,Porsche,911 GT3,07:54.0,474,380,284,3075,92.3,70.9,50.2,1,0,0,4.3,189,1,0,,https://www.autoevolution.com/cars/porsche-911-gt3-996-2003.html#aeng_porsche-911-gt3-996-2001-36
+90,2015,Renault,Megane RS 275 Trophy-R,07:54.4,474.4,269,265,2822,104.3,71.4,56.5,0,0,1,5.6,158,1,0,,https://fastestlaps.com/models/renault-megane-rs-275-trophy-r
+91,2005,Ferrari,F430,07:55.0,475,490,342,3197,102.4,75.7,47.8,1,0,0,3.6,196,1,0,,https://www.edmunds.com/ferrari/f430/2005/features-specs/
+92,2010,Subaru,WRX STI,07:55.0,475,305,290,3395,103.3,70.7,58.1,0,1,0,4.6,158,1,0,,https://www.caranddriver.com/subaru/wrx-sti/specs/2010/subaru_wrx-sti_subaru-impreza-wrx-sti_2010
+93,1999,Caterham,R500 1.8L K Series,07:55.0,475,229,155,1014,88.6,62,31.5,1,0,0,3.4,155,1,0,,https://www.automobile-catalog.com/car/1999/337475/caterham_super_seven_superlight_r500.html#gsc.tab=0
+94,2011,BMW,M5,07:55.0,475,560,500,4387,116.7,74.4,57.3,1,0,0,4.4,190,0,1,,https://www.evo.co.uk/bmw/m5/20305/bmw-m5-f10-2011-2016-review-specs-and-buying-guide
+95,2000,Porsche,911 Turbo,07:56.0,476,420,413,3197,92.6,72,51.2,0,1,0,4,189,1,0,,https://www.autoevolution.com/cars/porsche-911-turbo-996-2000.html#aeng_porsche-911-turbo-996-2000-36-5at-420-hp
+96,2003,Ferrari,360 CS,07:56.0,476,400,275,3197,102.3,75.7,47.8,1,0,0,4.2,183,0,1,,https://www.autoblog.com/buy/2003-Ferrari-360+Modena-Spider_F1__2dr_Convertible/equipment/
+97,2009,Ferrari,California GT,07:56.0,476,453,358,3809,105.1,74.9,51.5,1,0,0,3.8,193,0,1,,https://www.caranddriver.com/reviews/a15151210/2009-ferrari-california-first-drive-review/
+98,2009,Porsche,Panamera Sport Chrono Turbo,07:56.0,476,493,516,4350,114.9,76.02,55.8,0,1,0,4,188,0,1,,https://www.ultimatespecs.com/car-specs/Porsche/35504/Porsche-Panamera-Turbo-Sports-Chrono-Package.html
+99,2009,Porsche,Panamera Turbo,07:56.0,476,493,516,4343,114.9,76.02,55.8,0,1,0,4.2,188,0,1,,https://www.ultimatespecs.com/car-specs/Porsche/12991/Porsche-Panamera-Turbo.html
+100,2002,Chevrolet,Corvette Z06,07:56.0,476,405,400,3100,104.5,73.6,47.7,1,0,0,3.9,168,1,0,,https://www.caranddriver.com/reviews/a15137861/2002-chevrolet-corvette-z06-road-test-review/
